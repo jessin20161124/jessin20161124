@@ -2,7 +2,7 @@
 - 👀 I’m interested in SpringCloud, Dubbo, Kafka, MetaData, LowCode
 - 🌱 I’m currently learning in Java Backend
 - 💞️ I’m looking to collaborate on Mirco Service, LowCode, MetaData, Kubernetes
-- 📫 How to reach me: mail to 2995272029@qq.com 
+- 📫 How to reach me: mail to 2_9_9_5_2_72029@qq.com 
 
 <!---
 jessin20161124/jessin20161124 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
